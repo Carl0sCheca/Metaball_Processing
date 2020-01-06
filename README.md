@@ -1,4 +1,4 @@
 # Metaball
-Prueba de metaball hecha con processing con threads.
+Prueba de metaball hecho utilizando processing y threads
 
 ![animacion](animation.gif)
